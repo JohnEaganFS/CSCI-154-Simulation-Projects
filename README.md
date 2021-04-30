@@ -11,7 +11,6 @@ The important files for each project are listed below:
 
 ----------
 Monty Hall
-----------
 1. main.py - Driver function to test different variants of Monty Hall Problem (MHP). Feel free to mess around with different values and see how the results differ.
 2. customProblem.py - Contains the majority of my code for the Monty Hall Problem variations. Look here for most of the implementation.
 3. generalFunctions.py - Some general functions I used often enough that I decided to include them as a separate module. Also includes some code for implementing MHP.
@@ -19,4 +18,3 @@ Monty Hall
 
 ---------
 Blackjack
----------
