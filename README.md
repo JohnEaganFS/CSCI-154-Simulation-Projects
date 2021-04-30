@@ -12,17 +12,21 @@ The important files for each project are listed below:
 Monty Hall
 ----------
 1. main.py - Driver function to test different variants of Monty Hall Problem (MHP). Feel free to mess around with different values and see how the results differ.
-2. customProblem.py - Contains the majority of my code for the Monty Hall Problem variations. Look here for most of the implementation.
-3. generalFunctions.py - Some general functions I used often enough that I decided to include them as a separate module. Also includes some code for implementing MHP.
-4. test.py - The actual file I ran to gather my data. It imports and calls from customProblem.py. Note that this took very long to process so I suggest reducing the iterations if you want to run it yourself (~2 days).
+2. **customProblem.py** - Contains the majority of my code for the Monty Hall Problem variations. Look here for most of the implementation.
+3. **generalFunctions.py** - Some general functions I used often enough that I decided to include them as a separate module. Also includes some code for implementing MHP.
+4. *test.py* - The actual file I ran to gather my data. It imports and calls from customProblem.py. Note that this took very long to process so I suggest reducing the iterations if you want to run it yourself (~1 day).
 
 ---------
 Blackjack
 ---------
 1. main.py - Driver function for variants of Blackjack and Player Strategies.
-2. customGame.py - Main implementation of Blackjack and variations.
-3. test.py - Data gathering file. Once again, I suggest reducing iteration count (~12 hours)
+2. **customGame.py** - Main implementation of Blackjack and variations.
+3. *test.py* - Data gathering file. Once again, I suggest reducing iteration count (~12 hours)
 
 --------------
 Bank & Tellers
 --------------
+1. **tellerGeneralFunctions.py** - Contains implementation of a general bank & teller situation as well as a priority queue for light requests. Look here for implementation.
+2. *test.py* - Data gathering file. Quite fast so don't worry about iteration count (<1 min)
+3. customTeller.py - Small driver function for custom variations. Feel free to mess around.
+4. Every other file - All just the different variations I wanted to test out. Implementation is the same as in tellerGeneralFunctions.py just for different scenarios.
