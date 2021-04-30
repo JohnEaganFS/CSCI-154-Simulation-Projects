@@ -6,7 +6,7 @@ The 3 projects are:
 3. Bank & Tellers - Discrete Event Simulation
 
 Within each project folder, there are 3-4 primary files of code that I used to test and produce my experimental results.
-The important files for each project are listed below:
+The important files for each project are listed below (**bold** = implementation, *italic* = data gathering/output)
 
 ----------
 Monty Hall
