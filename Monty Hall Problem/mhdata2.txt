@@ -1,0 +1,399 @@
+Classic Monty Hall (3, 6, 9, 20, 100)
+================================================
+
+Player Strategy: Always Switch
+------------------------------------------------
+3 Doors
+Theoretical: 66.66666666666666
+
+Iterations: 10
+Average Deviation(n = 10000): 18.154
+
+Iterations: 100
+Average Deviation(n = 10000): 5.66275
+
+Iterations: 1000
+Average Deviation(n = 10000): 1.7862200000000032
+
+Iterations: 10000
+Average Deviation(n = 10000): 0.5682925000000048
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.1798317500000024
+
+------------------------------------------------
+6 Doors
+Theoretical: 83.33333333333333
+
+Iterations: 10
+Average Deviation(n = 10000): 11.6152
+
+Iterations: 100
+Average Deviation(n = 10000): 3.5904400000000076
+
+Iterations: 1000
+Average Deviation(n = 10000): 1.1295400000000095
+
+Iterations: 10000
+Average Deviation(n = 10000): 0.3621688000000041
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.11336708000000058
+
+------------------------------------------------
+9 Doors
+Theoretical: 88.88888888888889
+
+Iterations: 10
+Average Deviation(n = 10000): 8.775375
+
+Iterations: 100
+Average Deviation(n = 10000): 2.8225625
+
+Iterations: 1000
+Average Deviation(n = 10000): 0.8897499999999987
+
+Iterations: 10000
+Average Deviation(n = 10000): 0.2855733749999935
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.08850637500000023
+
+------------------------------------------------
+20 Doors
+Theoretical: 95.0
+
+Iterations: 10
+Average Deviation(n = 10000): 6.317894736843639
+
+Iterations: 100
+Average Deviation(n = 10000): 1.7731578947367475
+
+Iterations: 1000
+Average Deviation(n = 10000): 0.5780947368420888
+
+Iterations: 10000
+Average Deviation(n = 10000): 0.1854368421052607
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.05800168421052617
+
+------------------------------------------------
+100 Doors
+Theoretical: 99.0
+
+Iterations: 10
+Average Deviation(n = 10000): 1.820404040404006
+
+Iterations: 100
+Average Deviation(n = 10000): 0.7360606060605479
+
+Iterations: 1000
+Average Deviation(n = 10000): 0.24981818181817786
+
+Iterations: 10000
+Average Deviation(n = 10000): 0.0801777777777789
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.025183333333332787
+
+================================================
+
+Player Strategy: Always Stay
+------------------------------------------------
+3 Doors
+Theoretical: 33.33333333333333
+
+Iterations: 10
+Average Deviation(n = 10000): 36.369
+
+Iterations: 100
+Average Deviation(n = 10000): 11.4539
+
+Iterations: 1000
+Average Deviation(n = 10000): 3.522379999999994
+
+Iterations: 10000
+Average Deviation(n = 10000): 1.131607000000005
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.3589484000000027
+
+------------------------------------------------
+6 Doors
+Theoretical: 16.666666666666664
+
+Iterations: 10
+Average Deviation(n = 10000): 57.766
+
+Iterations: 100
+Average Deviation(n = 10000): 17.9582
+
+Iterations: 1000
+Average Deviation(n = 10000): 5.6462600000000025
+
+Iterations: 10000
+Average Deviation(n = 10000): 1.766182000000001
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.5662235999999987
+
+------------------------------------------------
+9 Doors
+Theoretical: 11.11111111111111
+
+Iterations: 10
+Average Deviation(n = 10000): 69.644
+
+Iterations: 100
+Average Deviation(n = 10000): 22.6416
+
+Iterations: 1000
+Average Deviation(n = 10000): 7.161969999999972
+
+Iterations: 10000
+Average Deviation(n = 10000): 2.237812999999967
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.7131662999999993
+
+------------------------------------------------
+20 Doors
+Theoretical: 5.0
+
+Iterations: 10
+Average Deviation(n = 10000): 120.36
+
+Iterations: 100
+Average Deviation(n = 10000): 33.964
+
+Iterations: 1000
+Average Deviation(n = 10000): 10.8794
+
+Iterations: 10000
+Average Deviation(n = 10000): 3.489680000000006
+
+Iterations: 100000
+Average Deviation(n = 10000): 1.1022940000000052
+
+------------------------------------------------
+100 Doors
+Theoretical: 1.0
+
+Iterations: 10
+Average Deviation(n = 10000): 182.56
+
+Iterations: 100
+Average Deviation(n = 10000): 73.89
+
+Iterations: 1000
+Average Deviation(n = 10000): 24.926
+
+Iterations: 10000
+Average Deviation(n = 10000): 7.8807
+
+Iterations: 100000
+Average Deviation(n = 10000): 2.5256900000000084
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+================================================
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Host Opens Random Doors (3, 6, 9, 20, 100)
+================================================
+
+Player Strategy: Always Switch
+------------------------------------------------
+3 Doors
+Theoretical: 33.33333333333333
+
+Iterations: 10
+Average Deviation(n = 10000): 36.341
+
+Iterations: 100
+Average Deviation(n = 10000): 11.3127
+
+Iterations: 1000
+Average Deviation(n = 10000): 3.5361499999999753
+
+Iterations: 10000
+Average Deviation(n = 10000): 1.1292960000000127
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.3589128000000027
+
+------------------------------------------------
+6 Doors
+Theoretical: 16.666666666666664
+
+Iterations: 10
+Average Deviation(n = 10000): 58.368
+
+Iterations: 100
+Average Deviation(n = 10000): 18.0414
+
+Iterations: 1000
+Average Deviation(n = 10000): 5.6712800000000225
+
+Iterations: 10000
+Average Deviation(n = 10000): 1.78276800000001
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.5632554000000022
+
+------------------------------------------------
+9 Doors
+Theoretical: 11.11111111111111
+
+Iterations: 10
+Average Deviation(n = 10000): 69.854
+
+Iterations: 100
+Average Deviation(n = 10000): 22.3699
+
+Iterations: 1000
+Average Deviation(n = 10000): 7.172849999999999
+
+Iterations: 10000
+Average Deviation(n = 10000): 2.2416759999999725
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.7162113000000025
+
+------------------------------------------------
+20 Doors
+Theoretical: 5.0
+
+Iterations: 10
+Average Deviation(n = 10000): 119.92
+
+Iterations: 100
+Average Deviation(n = 10000): 34.372
+
+Iterations: 1000
+Average Deviation(n = 10000): 10.9744
+
+Iterations: 10000
+Average Deviation(n = 10000): 3.431500000000011
+
+Iterations: 100000
+Average Deviation(n = 10000): 1.0958820000000074
+
+------------------------------------------------
+100 Doors
+Theoretical: 1.0
+
+Iterations: 10
+Average Deviation(n = 10000): 179.72
+
+Iterations: 100
+Average Deviation(n = 10000): 71.93
+
+Iterations: 1000
+Average Deviation(n = 10000): 25.017
+
+Iterations: 10000
+Average Deviation(n = 10000): 7.9191
+
+Iterations: 100000
+Average Deviation(n = 10000): 2.5668799999999994
+
+================================================
+
+Player Strategy: Always Stay
+------------------------------------------------
+3 Doors
+Theoretical: 33.33333333333333
+
+Iterations: 10
+Average Deviation(n = 10000): 36.115
+
+Iterations: 100
+Average Deviation(n = 10000): 11.3265
+
+Iterations: 1000
+Average Deviation(n = 10000): 3.547369999999999
+
+Iterations: 10000
+Average Deviation(n = 10000): 1.1326770000000048
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.35588270000000205
+
+------------------------------------------------
+6 Doors
+Theoretical: 16.666666666666664
+
+Iterations: 10
+Average Deviation(n = 10000): 57.982
+
+Iterations: 100
+Average Deviation(n = 10000): 17.866
+
+Iterations: 1000
+Average Deviation(n = 10000): 5.615740000000031
+
+Iterations: 10000
+Average Deviation(n = 10000): 1.7884880000000078
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.5638568000000017
+
+------------------------------------------------
+9 Doors
+Theoretical: 11.11111111111111
+
+Iterations: 10
+Average Deviation(n = 10000): 68.436
+
+Iterations: 100
+Average Deviation(n = 10000): 22.5745
+
+Iterations: 1000
+Average Deviation(n = 10000): 7.110749999999989
+
+Iterations: 10000
+Average Deviation(n = 10000): 2.2223119999999676
+
+Iterations: 100000
+Average Deviation(n = 10000): 0.7172219000000017
+
+------------------------------------------------
+20 Doors
+Theoretical: 5.0
+
+Iterations: 10
+Average Deviation(n = 10000): 119.9
+
+Iterations: 100
+Average Deviation(n = 10000): 34.622
+
+Iterations: 1000
+Average Deviation(n = 10000): 10.9702
+
+Iterations: 10000
+Average Deviation(n = 10000): 3.482780000000005
+
+Iterations: 100000
+Average Deviation(n = 10000): 1.1071660000000096
+
+------------------------------------------------
+100 Doors
+Theoretical: 1.0
+
+Iterations: 10
+Average Deviation(n = 10000): 179.84
+
+Iterations: 100
+Average Deviation(n = 10000): 72.91
+
+Iterations: 1000
+Average Deviation(n = 10000): 25.252
+
+Iterations: 10000
+Average Deviation(n = 10000): 7.9357
+
+Iterations: 100000
+Average Deviation(n = 10000): 2.4894899999999978
+
+Time: 54258.352021217346
