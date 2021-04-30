@@ -1,10 +1,10 @@
 import random
 import time
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # ended up using excel with raw data for graphics
 
-import customProblem
+import customProblem # the file you want to look at for MHP implementation
 
-
+# Driver function (no implementation here)
 if __name__ == "__main__":
     random.seed(time.time())
 
