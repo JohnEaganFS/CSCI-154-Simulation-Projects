@@ -1,0 +1,44 @@
+------------------------------------------
+Original Problem
+------------------------------------------
+Jobs Done: 70
+Jobs Waiting: 79
+Active Jobs: 10
+Average Wait Time: 123
+------------------------------------------
+One More Window
+------------------------------------------
+Jobs Done: 77
+Jobs Waiting: 71
+Active Jobs: 11
+Average Wait Time: 110
+------------------------------------------
+One Less Window
+------------------------------------------
+Jobs Done: 63
+Jobs Waiting: 87
+Active Jobs: 9
+Average Wait Time: 134
+------------------------------------------
+Small Request Priority
+------------------------------------------
+Jobs Done: 73
+Jobs Waiting: 76
+Active Jobs: 10
+Average Wait Time: 96
+------------------------------------------
+One Speedy Teller
+------------------------------------------
+Jobs Done: 73
+Jobs Waiting: 85
+Active Jobs: 1
+Average Wait Time: 129
+------------------------------------------
+Many Slow Tellers
+------------------------------------------
+Jobs Done: 0
+Jobs Waiting: 60
+Active Jobs: 100
+Average Wait Time: 9999999
+------------------------------------------
+Time: 37.84896278381348
