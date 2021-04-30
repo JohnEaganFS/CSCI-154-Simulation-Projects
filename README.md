@@ -18,4 +18,11 @@ Monty Hall
 
 ---------
 Blackjack
-----------
+---------
+1. main.py - Driver function for variants of Blackjack and Player Strategies.
+2. customGame.py - Main implementation of Blackjack and variations.
+3. test.py - Data gathering file. Once again, I suggest reducing iteration count (~12 hours)
+
+--------------
+Bank & Tellers
+--------------
