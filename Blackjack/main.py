@@ -3,6 +3,13 @@ import random
 
 import customGame
 
+# Driver function
+#        _______
+#       //  ||\ \
+# _____//___||_\ \___
+# )  _          _    \
+# |_/ \________/ \___|
+#___\_/________\_/______ Art Credit: Colin Douthwaite (some internet person)
 if __name__ == "__main__":
     random.seed(time.time())
 
