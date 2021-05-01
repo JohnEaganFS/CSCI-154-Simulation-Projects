@@ -26,7 +26,7 @@ Blackjack
 --------------
 Bank & Tellers
 --------------
-1. **tellerGeneralFunctions.py** - Contains implementation of a general bank & teller situation as well as a priority queue for light requests. Look here for implementation.
+1. **customTeller.py** - Contains implementation of a general bank & teller situation as well as a priority queue for light requests. Look here for implementation.
 2. *test.py* - Data gathering file. Quite fast so don't worry about iteration count (<1 min)
-3. customTeller.py - Small driver function for custom variations. Feel free to mess around.
-4. Every other file - All just the different variations I wanted to test out. Implementation is the same as in tellerGeneralFunctions.py just for different scenarios.
+3. main.py - Small driver function for custom variations. Feel free to mess around.
+4. Every other file - All just the different variations I wanted to test out. Implementation is the same as in customTeller.py just for different scenarios.
